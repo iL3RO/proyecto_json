@@ -9,3 +9,12 @@ Contar información: Hacer un ejercicio que muestre el total de veces que aparec
 Buscar o filtrar información: Pedir por teclado uno o varios datos y utilizarlos para hacer una búsqueda, por ejemplo: “Mostrar provincias que empiecen por una subcadena”,”Mostrar libros cuyo precio este entre un valor inicial y otro final”,…
 Buscar información relacionada: Es decir me pide buscar una información, pero muestra información relacionada a ella. Por ejemplo: “Pide por teclado un autor y muestra los libros que ha escrito”,”Pide un municipio y muestra la provincia a la que pertenece”,…
 Ejercicio libre, piensa un tipo de ejercicio que sea diferente a los anteriores o una mezcla de alguno de ellos.
+
+
+Mi enunciado:
+
+Listar las motocicletas disponibles en la flota.(Marca, modelo, Año) 
+Contar motocicletas por tipo (deportiva, naked, trail, eléctrica, etc.).
+Filtrar motocicletas por cilindrada o autonomía. 
+Buscar motocicletas por marca y modelo. 
+Identificar las motocicletas más alquiladas o utilizadas en el último mes.
